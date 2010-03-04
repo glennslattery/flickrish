@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary flickrish is a theme for zenPhoto
 
 = Introduction =
 

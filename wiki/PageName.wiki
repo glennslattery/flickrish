@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Fatal error: Call to undefined function printlatestimage()
 #labels errors
 
 = Introduction =
